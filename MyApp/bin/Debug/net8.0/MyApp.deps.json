@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyApp/1.0.0": {
+        "dependencies": {
+          "UrlValidator": "1.0.0"
+        },
+        "runtime": {
+          "MyApp.dll": {}
+        }
+      },
+      "UrlValidator/1.0.0": {
+        "runtime": {
+          "UrlValidator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UrlValidator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

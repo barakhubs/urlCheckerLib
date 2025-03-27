@@ -1,0 +1,11 @@
+D:\projects\dotnet\UrlCheckerLib\bin\Debug\net8.0\UrlCheckerLib.deps.json
+D:\projects\dotnet\UrlCheckerLib\bin\Debug\net8.0\UrlCheckerLib.dll
+D:\projects\dotnet\UrlCheckerLib\bin\Debug\net8.0\UrlCheckerLib.pdb
+D:\projects\dotnet\UrlCheckerLib\obj\Debug\net8.0\UrlCheckerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\UrlCheckerLib\obj\Debug\net8.0\UrlCheckerLib.AssemblyInfoInputs.cache
+D:\projects\dotnet\UrlCheckerLib\obj\Debug\net8.0\UrlCheckerLib.AssemblyInfo.cs
+D:\projects\dotnet\UrlCheckerLib\obj\Debug\net8.0\UrlCheckerLib.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\UrlCheckerLib\obj\Debug\net8.0\UrlCheckerLib.dll
+D:\projects\dotnet\UrlCheckerLib\obj\Debug\net8.0\refint\UrlCheckerLib.dll
+D:\projects\dotnet\UrlCheckerLib\obj\Debug\net8.0\UrlCheckerLib.pdb
+D:\projects\dotnet\UrlCheckerLib\obj\Debug\net8.0\ref\UrlCheckerLib.dll
