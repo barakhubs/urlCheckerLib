@@ -12,6 +12,7 @@ namespace UrlValidator
         public string Url { get; set; }
         public string AffectedType { get; set; }
         public string AffectedName { get; set; }
+        public string AffectedInfoId { get; set; }
     }
 
     public class UrlStatus
@@ -19,6 +20,7 @@ namespace UrlValidator
         public string Url { get; set; }
         public string AffectedType { get; set; }
         public string AffectedName { get; set; }
+        public string AffectedInfoId { get; set; }
         public int StatusCode { get; set; }
         public string Message { get; set; }
     }
@@ -103,11 +105,12 @@ namespace UrlValidator
 
         private async Task<UrlStatus> CheckUrlAsync(UrlCheckItem urlItem)
         {
-            var urlStatus = new UrlStatus 
-            { 
+            var urlStatus = new UrlStatus
+            {
                 Url = urlItem.Url,
                 AffectedType = urlItem.AffectedType,
-                AffectedName = urlItem.AffectedName
+                AffectedName = urlItem.AffectedName,
+                AffectedInfoId = urlItem.AffectedInfoId
             };
             var stopwatch = Stopwatch.StartNew();
 

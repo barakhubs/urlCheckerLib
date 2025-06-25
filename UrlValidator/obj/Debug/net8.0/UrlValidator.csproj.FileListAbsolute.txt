@@ -20,3 +20,15 @@ D:\projects\dotnet\UrlValidator\obj\Debug\net8.0\UrlValidator.dll
 D:\projects\dotnet\UrlValidator\obj\Debug\net8.0\refint\UrlValidator.dll
 D:\projects\dotnet\UrlValidator\obj\Debug\net8.0\UrlValidator.pdb
 D:\projects\dotnet\UrlValidator\obj\Debug\net8.0\ref\UrlValidator.dll
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\bin\Debug\net8.0\UrlValidator.deps.json
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\bin\Debug\net8.0\UrlValidator.dll
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\bin\Debug\net8.0\UrlValidator.pdb
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\UrlValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\UrlValidator.AssemblyInfoInputs.cache
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\UrlValidator.AssemblyInfo.cs
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\UrlValidator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\UrlValidator.sourcelink.json
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\UrlValidator.dll
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\refint\UrlValidator.dll
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\UrlValidator.pdb
+C:\Users\LENOVO\urlCheckerLib\UrlValidator\obj\Debug\net8.0\ref\UrlValidator.dll

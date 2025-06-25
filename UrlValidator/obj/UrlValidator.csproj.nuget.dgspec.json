@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\dotnet\\UrlValidator\\UrlValidator.csproj": {}
+    "C:\\Users\\LENOVO\\urlCheckerLib\\UrlValidator\\UrlValidator.csproj": {}
   },
   "projects": {
-    "D:\\projects\\dotnet\\UrlValidator\\UrlValidator.csproj": {
+    "C:\\Users\\LENOVO\\urlCheckerLib\\UrlValidator\\UrlValidator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\dotnet\\UrlValidator\\UrlValidator.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\urlCheckerLib\\UrlValidator\\UrlValidator.csproj",
         "projectName": "UrlValidator",
-        "projectPath": "D:\\projects\\dotnet\\UrlValidator\\UrlValidator.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\urlCheckerLib\\UrlValidator\\UrlValidator.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\dotnet\\UrlValidator\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\urlCheckerLib\\UrlValidator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
