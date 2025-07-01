@@ -13,6 +13,7 @@ namespace UrlValidator
         public string AffectedType { get; set; }
         public string AffectedName { get; set; }
         public string AffectedInfoId { get; set; }
+        public string AffectedTileId { get; set; }
     }
 
     public class UrlStatus
@@ -21,6 +22,7 @@ namespace UrlValidator
         public string AffectedType { get; set; }
         public string AffectedName { get; set; }
         public string AffectedInfoId { get; set; }
+        public string AffectedTileId { get; set; }
         public int StatusCode { get; set; }
         public string Message { get; set; }
     }
@@ -110,7 +112,8 @@ namespace UrlValidator
                 Url = urlItem.Url,
                 AffectedType = urlItem.AffectedType,
                 AffectedName = urlItem.AffectedName,
-                AffectedInfoId = urlItem.AffectedInfoId
+                AffectedInfoId = urlItem.AffectedInfoId,
+                AffectedTileId = urlItem.AffectedTileId
             };
             var stopwatch = Stopwatch.StartNew();
 
